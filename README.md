@@ -51,9 +51,7 @@ Aca te muestro cual es el funcionamiento de mi aplicación a grandes rasgos.
     <center>
         <table border="0">
             <tr>
-                <td><img src="https://github.com/yamaka/ProyectoFinal_StudyJam/blob/master/img/2016_12_28_14_29_03_14_32_14.gif
-
-" width="250"></td>
+                <td><img src="https://github.com/yamaka/ProyectoFinal_StudyJam/blob/master/img/2016_12_28_14_29_03_14_32_14.gif" width="250"></td>
                 <td><img src="https://github.com/yamaka/ProyectoFinal_StudyJam/blob/master/img/2016_12_28_14_29_03_14_36_05.gif" width="250"></td>
                 <td><img src="https://github.com/yamaka/ProyectoFinal_StudyJam/blob/master/img/2016_12_28_14_29_03_14_39_28.gif" width="250"></td>
             </tr>
